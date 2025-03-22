@@ -1,4 +1,3 @@
-"# ClassIsland-CentralizedControlSplittingTool" 
 
 ## 声明！！！
 
